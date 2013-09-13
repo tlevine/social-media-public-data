@@ -188,6 +188,9 @@ the stuff we collect to fit our curiousity.
 
 ## Control group
 
+![](topsy.png)
+
+http://topsy.com/analytics?q1=bacon&q2=statistics&via=Topsy
 
 ---
 
