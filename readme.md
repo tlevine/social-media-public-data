@@ -28,6 +28,8 @@ Special Operations Division Total,0%,0%,1%,1%,0%,2%
 Percent of All Subject Officers Against Whom Allegations were Substantiated,0%,0%,0.2%,0.3%,0%,0.1%
 ```
 
+When I say "data", I'm talking about tables.
+
 <!-- 
 The world is complicated; we need to simplify it in
 order to understand it. Representing the world as
@@ -46,4 +48,45 @@ simplify these data further with statistics.
 
 
 
+
+
+![](world-data-world.jpg)
+
+
+
 ## Computers are cheap. How does that change things?
+
+
+![](computer.jpg)
+
+
+<!-- Some things got cheap faster than other things did -->
+
+
+
+# World -> Data
+
+
+Questionnaires
+
+
+Lab studies
+
+
+Captricity
+
+
+Websites, social media
+
+
+Sensors
+
+
+
+
+
+# Data -> Data
+
+
+
+# Data -> World
