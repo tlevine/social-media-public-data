@@ -13,7 +13,11 @@ build better things and satisfy our curiosity.
 
 ![](world-data-world.jpg)
 
+<!-- This is how we in this room do it. -->
+
 ---
+
+## World -> Data
 
 ```
 Special Operations,2005,2006,2007,2008,2009,Total
@@ -39,6 +43,7 @@ tabular data is one way of doing that.
 ---
 
 
+## Data -> Data
 
 ![](1000px-The_Normal_Distribution.svg.png)
 
@@ -51,55 +56,82 @@ http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Normal_Distribution
 -->
 
 
-
-
-
 ---
 
 
+
+## Data -> World
 
 
 ![](http://thomaslevine.com/!/socrata-formats/figure/sf-shapefile.png)
 
 
+<!--
+
+We simplify the data enough that we can understand it,
+then we convert our data back into other things, like
+papers and graphs.
+
+-->
+
+
+---
+
 
 ![](world-data-world.jpg)
 
+===
 
 
 ## Computers are cheap. How does that change things?
 
+---
 
 ![](computer.jpg)
 
 
-<!-- Some things got cheap faster than other things did -->
+(Remember, "data" are tables.)
 
+<!--
 
+Some things got cheap faster than other things did.
+
+-->
+
+---
 
 # World -> Data
 
+<!--
+Now it's super cheap to collect data, sometimes.
+We collect the data practically for free by measuring things that are already happening.
+We don't worry too much about designing a research plan. We wind up with
+very large, often complete, historical data.
+Here are some convenient/inexpensive data collection approaches.
 
-Questionnaires
+-->
 
-
-Lab studies
-
-
-Captricity
-
-
-Websites, social media
-
+---
 
 Sensors
 
+---
 
+Captricity
 
+---
 
+Websites, social media
+
+---
 
 # Data -> Data
 
-
+<!--
+We decided to collect more data because it was cheap.
+The resulting data are far more complicated than the data
+coming out of questionnaires, so we need to do more statistics
+on them.
+-->
 
 # Data -> World
