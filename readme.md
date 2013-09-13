@@ -152,6 +152,11 @@ and data transformations.
 
 # Data -> World
 
+
+[![](baseball.png)](http://www.nytimes.com/interactive/2013/08/02/sports/baseball/bang-for-your-buck.html)
+
 ---
 
 [![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
+
+---
