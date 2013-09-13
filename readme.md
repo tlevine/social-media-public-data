@@ -183,7 +183,7 @@ and data transformations.
 
 [![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
 
----
+===
 
 # Creating meaningful datasets
 
@@ -249,7 +249,7 @@ The power of linking
 * Lots of tweets
 * Links to websites
 
----
+===
 
 # Computers are cheap
 
