@@ -87,7 +87,7 @@ papers and graphs.
 
 ---
 
-![](computer.jpg)
+![](computers.jpg)
 
 
 (Remember, "data" are tables.)
@@ -134,6 +134,8 @@ Parsing PDFs
 
 Websites, social media
 
+---
+
 # Data -> Data
 
 <!--
@@ -164,6 +166,7 @@ and data transformations.
 
 # Data -> World
 
+---
 
 [![](baseball.png)](http://www.nytimes.com/interactive/2013/08/02/sports/baseball/bang-for-your-buck.html)
 
@@ -180,6 +183,8 @@ and data transformations.
 
 [![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
 
+---
+
 # Creating meaningful datasets
 
 ### Designing experiments with Social media data
@@ -193,8 +198,9 @@ or about specific times, we have to process
 the stuff we collect to fit our curiousity.
 -->
 
-## A text search is not statistics
+---
 
+## A text search is not statistics
 
 ---
 
@@ -232,6 +238,8 @@ People tweet about things they're comfortable sharing.
 
 http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
+---
+
 # One more thought
 
 The power of linking
@@ -240,6 +248,8 @@ The power of linking
 * User profile
 * Lots of tweets
 * Links to websites
+
+---
 
 # Computers are cheap
 
