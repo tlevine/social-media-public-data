@@ -1,5 +1,9 @@
 # Computers are cheap
 
+Thomas Levine
+
+[thomaslevine.com](http://thomaslevine.com)
+
 ===
 
 # ?
