@@ -184,15 +184,37 @@ the stuff we collect to fit our curiousity.
 ## A text search is not statistics
 
 
+---
+
+## Control group
+
+
+---
 
 ## Validate against accepted measures
 
 
 
-## Be careful
+---
+
+## Be careful: Sampling bias
+
+![](pew.png)
+
+http://pewinternet.org/Reports/2012/Twitter-Use-2012/Findings.aspx
+
+---
+
+![](gender.png)
+
+http://www.informationisbeautiful.net/visualizations/chicks-rule/
+
+---
 
 ![](brain.png)
 
 People tweet about things they're comfortable sharing.
 
 http://harmony-institute.org/therippleeffect/2012/10/12/1265/
+
+##
