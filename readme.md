@@ -116,24 +116,42 @@ Sensors
 
 ---
 
-Websites, social media
+Parsing PDFs
 
 ---
 
+Websites, social media
+
 # Data -> Data
-
-![](software.jpg)
-
 
 <!--
 We decided to collect more data because it was cheap.
 The resulting data are far more complicated than the data
 coming out of questionnaires, so we need to do more statistics
-on them.
+and data transformations.
 -->
 
 
+---
 
+![](zipcode.png)
 
+---
+
+![](tweet-times.png)
+
+---
+
+[![](opendatasites.png)](http://opendatasites.com/)
+
+---
+
+[![](openprism.png)](http://openprism.thomaslevine.com/)
+
+---
 
 # Data -> World
+
+---
+
+[![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
