@@ -1,8 +1,6 @@
 # Computers are cheap
 
-
-
-
+===
 
 # ?
 
@@ -11,10 +9,11 @@ We study the world so we can make better decisions,
 build better things and satisfy our curiosity.
 -->
 
+---
 
+![](world-data-world.jpg)
 
-
-
+---
 
 ```
 Special Operations,2005,2006,2007,2008,2009,Total
@@ -37,17 +36,30 @@ order to understand it. Representing the world as
 tabular data is one way of doing that.
 -->
 
+---
 
 
 
+![](1000px-The_Normal_Distribution.svg.png)
 
 
 <!--
 Sometimes the data are still too complicated, so we
 simplify these data further with statistics.
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Normal_Distribution.svg/1000px-The_Normal_Distribution.svg.png
 -->
 
 
+
+
+
+---
+
+
+
+
+![](http://thomaslevine.com/!/socrata-formats/figure/sf-shapefile.png)
 
 
 
