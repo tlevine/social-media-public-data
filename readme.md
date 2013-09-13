@@ -220,4 +220,20 @@ People tweet about things they're comfortable sharing.
 
 http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
-##
+# One more thought
+
+The power of linking
+
+* Twitter user
+* User profile
+* Lots of tweets
+* Links to websites
+
+
+# Computers are cheap
+
+* Computers are cheap,
+* so we collect a lot more data,
+* so we can do a lot more with it,
+* but we have to process it more,
+* and we still have to do good statistics.
