@@ -124,15 +124,17 @@ Here are some convenient/inexpensive data collection approaches.
 
 ---
 
-Sensors
+![](leif.jpg)
+
+http://dontflush.me/420
 
 ---
 
-Parsing PDFs
+![](highlighted-public-notice.png)
 
 ---
 
-Websites, social media
+![](piwik.png)
 
 ---
 
