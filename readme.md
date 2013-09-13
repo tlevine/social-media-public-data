@@ -97,7 +97,6 @@ papers and graphs.
 Some things got cheap faster than other things did.
 
 -->
-
 ---
 
 # World -> Data
@@ -117,15 +116,14 @@ Sensors
 
 ---
 
-Captricity
-
----
-
 Websites, social media
 
 ---
 
 # Data -> Data
+
+![](software.jpg)
+
 
 <!--
 We decided to collect more data because it was cheap.
@@ -133,5 +131,9 @@ The resulting data are far more complicated than the data
 coming out of questionnaires, so we need to do more statistics
 on them.
 -->
+
+
+
+
 
 # Data -> World
