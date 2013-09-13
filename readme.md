@@ -157,6 +157,42 @@ and data transformations.
 
 ---
 
-[![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
+* Google
+* Yelp
+* Foursquare
+* Facebook
+* Twitter
+* ...
 
 ---
+
+[![](fms-symphony-preview.png)](http://fms.csvsoundsystem.com)
+
+# Creating meaningful datasets
+
+### Designing experiments with Social media data
+
+<!--
+Collecting everything is akin to turning on a
+security camera; we get all of the information
+about the place where the camera is pointing
+over time. If we want to know about other locations
+or about specific times, we have to process
+the stuff we collect to fit our curiousity.
+-->
+
+## A text search is not statistics
+
+
+
+## Validate against accepted measures
+
+
+
+## Be careful
+
+![](brain.png)
+
+People tweet about things they're comfortable sharing.
+
+http://harmony-institute.org/therippleeffect/2012/10/12/1265/
