@@ -99,6 +99,18 @@ Some things got cheap faster than other things did.
 -->
 ---
 
+### Tradeoffs
+
+Lots of automatically collected data
+
+* More power
+* Simpler models
+* Not the exact data we want
+* More work to store and process
+* Less external validity
+
+---
+
 # World -> Data
 
 <!--
@@ -228,7 +240,6 @@ The power of linking
 * User profile
 * Lots of tweets
 * Links to websites
-
 
 # Computers are cheap
 
