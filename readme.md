@@ -242,6 +242,31 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
 ---
 
+## Predict other variables
+
+---
+
+(that person from NYU at DataGotham)
+
+Age
+
+---
+
+
+![](us_middle_names_over_time.png)
+
+Age
+
+http://thomaslevine.com/!/middle-names
+
+---
+
+Occupation/specialization
+
+![](cornell_middle_names_by_school.png)
+
+http://thomaslevine.com/!/middle-names
+
 # One more thought
 
 The power of linking
