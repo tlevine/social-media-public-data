@@ -154,15 +154,15 @@ and data transformations.
 
 ---
 
+![](logfiles.png)
+
+---
+
+
+
+---
+
 ![](zipcode.png)
-
----
-
-[![](opendatasites.png)](http://opendatasites.com/)
-
----
-
-[![](openprism.png)](http://openprism.thomaslevine.com/)
 
 ---
 
@@ -220,7 +220,7 @@ http://topsy.com/analytics?q1=bacon&q2=statistics&via=Topsy
 
 ---
 
-## Be careful: Sampling bias
+## Be careful: Selection bias
 
 ![](pew.png)
 
@@ -250,9 +250,12 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
 ---
 
-![](deborah_tannen_cutout_basic.jpg)
+![](weekly_gender)
 
-http://www9.georgetown.edu/faculty/tannend/book_you_just_dont.html
+http://www.quora.com/Natural-Language-Processing/Are-there-any-text-corpora-labeled-with-gender-age-of-authors
+http://clic.cimec.unitn.it/amac/twitter_ngram/
+
+Gender
 
 ---
 
@@ -278,6 +281,10 @@ The power of linking
 * User profile
 * Lots of tweets
 * Links to websites
+
+---
+
+[![](opendatasites.png)](http://opendatasites.com/)
 
 ===
 
