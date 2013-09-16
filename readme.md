@@ -189,7 +189,13 @@ and data transformations.
 
 # Creating meaningful datasets
 
-### Designing experiments with Social media data
+---
+
+## A text search is not statistics
+
+---
+
+## Designing experiments with Social media data
 
 <!--
 Collecting everything is akin to turning on a
@@ -200,9 +206,9 @@ or about specific times, we have to process
 the stuff we collect to fit our curiousity.
 -->
 
----
+![](interrupted-time-series.png)
 
-## A text search is not statistics
+http://snap.stanford.edu/soma2010/papers/soma2010_1.pdf
 
 ---
 
