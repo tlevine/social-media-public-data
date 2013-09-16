@@ -63,7 +63,7 @@ http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Normal_Distribution
 ## Data -> World
 
 
-![](http://thomaslevine.com/!/socrata-formats/figure/sf-shapefile.png)
+![](sf-shapefile.png)
 
 
 <!--
@@ -154,10 +154,6 @@ and data transformations.
 
 ---
 
-![](tweet-times.png)
-
----
-
 [![](opendatasites.png)](http://opendatasites.com/)
 
 ---
@@ -243,6 +239,16 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 ---
 
 ## Predict other variables: Fancy post-stratification
+
+---
+
+![](tweet-times.png)
+
+---
+
+![](deborah_tannen_cutout_basic.jpg)
+
+http://www9.georgetown.edu/faculty/tannend/book_you_just_dont.html
 
 ---
 
