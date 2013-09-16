@@ -242,7 +242,7 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
 ---
 
-![](tweet-times.png)
+[![](tweet-times.png)](https://hackpad.com/Measuring-Socioeconomic-Indicators-in-Arabic-Tweets-IZ5ByP2LvIt)
 
 ---
 
