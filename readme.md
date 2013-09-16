@@ -158,7 +158,20 @@ and data transformations.
 
 ---
 
+    text = '''
+    Todo lo cual hace un total de $ 7.534,74, que deberá ser abonado por la demandada a
+    la actora en la forma y con más los intereses dispuestos en la sentencia de grado.
+    En virtud de las argumentaciones expuestas y con arreglo a lo
+    establecido por el art. 279 del CPCCN, corresponde adecuar la imposición de costas y
+    los honorarios al resultado del pleito que se ha dejado propuesto para resolver la
+    apelación.
+    '''
+    money_raw = re.findall(r"\$ ?[.,0-9]+", text)
+    money = [float(re.sub('[^0-9]$', '', filter(lambda c: c in ",1234567890", m).replace(",", "."))) for m in money_raw]
+    print money
+    # [7534.74]
 
+Find dollar amounts in free-form text
 
 ---
 
