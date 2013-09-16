@@ -246,6 +246,42 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
 ---
 
+	Recently you requested personal assistance from our on-line support
+	center. Below is a summary of your request and our response.
+
+	We will assume your issue has been resolved if we do not hear from you
+	within 48 hours.
+
+	Thank you for allowing us to be of service to you.
+
+	To access your question from our support site, click the following
+	link or paste it into your web browser.
+	https://ask.census.gov/app/account/questions/detail/i_id/186591
+
+
+	Subject
+	---------------------------------------------------------------
+	What proportion of people have middle initials?
+
+
+	Discussion Thread
+	---------------------------------------------------------------
+	Response Via Email(CLMSO - EMM) - 03/14/2011 16:04
+	Thank you for using the US Census Bureau's Question and Answer Center. Un-
+	fortunately, the subject you asked about is not one for which the Census
+	Bureau collects data. We are sorry we were not able to assist you.
+
+
+	Question Reference #110314-000041
+	---------------------------------------------------------------
+	 Category Level 1: People
+	 Category Level 2: Miscellaneous
+	     Date Created: 03/14/2011 15:29
+	     Last Updated: 03/14/2011 16:04
+		   Status: Pending Closure
+		       Cc:
+
+---
 
 ![](us_middle_names_over_time.png)
 
