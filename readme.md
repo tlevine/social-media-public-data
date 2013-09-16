@@ -111,6 +111,10 @@ Lots of automatically collected data
 
 ---
 
+![](world-data-world.jpg)
+
+---
+
 # World -> Data
 
 <!--
