@@ -220,12 +220,6 @@ http://topsy.com/analytics?q1=bacon&q2=statistics&via=Topsy
 
 ---
 
-## Validate against accepted measures
-
-
-
----
-
 ## Be careful: Sampling bias
 
 ![](pew.png)
@@ -248,13 +242,7 @@ http://harmony-institute.org/therippleeffect/2012/10/12/1265/
 
 ---
 
-## Predict other variables
-
----
-
-(that person from NYU at DataGotham)
-
-Age
+## Predict other variables: Fancy post-stratification
 
 ---
 
